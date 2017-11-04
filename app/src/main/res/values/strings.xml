@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesProvider</string>
+    <string name="action_settings">Settings</string>
+</resources>
